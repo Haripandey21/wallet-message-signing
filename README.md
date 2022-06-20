@@ -1,2 +1,6 @@
-# wallet-message-signing
-Adding Binance Smart Chain Test Network in Network Settings... Implement Message Signing Feature.
+# wallet assignment for esatya's blockchain fellowship
+
+Web based blockchain wallet
+task:
+  ->add polygon testnet
+  ->sign message
